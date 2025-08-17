@@ -1,17 +1,17 @@
 
-# **Business One-Word Domain Names**: Daily Updated List of Available Domains
+# **business One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Business one-word domains.
+This regularly updated dataset includes the latest available business one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/business-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Business one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **business one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Business domains.
+- **Domain Name**: High-quality, single-word business domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Business one-word d
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain        | status    | attractiveness | demand | length | created          | expires          | registrar                                               | sectors                            |
-| ------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------------------- | ---------------------------------- |
-| out.online    | available | 152            | 88     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| okay.co       | resell    | 146            | 52     | 4      | 20/07/2010 18:01 | 19/07/2026 23:59 | Dynadot Inc                                             | Business,Retail                    |
-| okay.tech     | available | 146            | 52     | 4      |                  |                  |                                                         | Business,Retail                    |
-| correct.so    | available | 140            | 72     | 7      |                  |                  |                                                         | Business,Education,Technology      |
-| correct.us    | resell    | 140            | 72     | 7      | 24/04/2002 14:53 | 23/04/2026 23:59 | Tucows Domains Inc.                                     | Business,Education,Technology      |
-| one.cab       | resell    | 132            | 44     | 3      | 19/01/2024 17:00 | 19/01/2026 17:00 | Xiamen ChinaSource Internet Service Co., Ltd            | Business,General,Media,Technology  |
-| one.family    | expired   | 132            | 44     | 3      | 21/06/2024 06:02 | 21/06/2025 06:02 | Porkbun LLC                                             | Business,General,Media,Technology  |
-| one.bar       | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.airforce  | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.kim       | resell    | 132            | 44     | 3      | 16/12/2023 17:00 | 16/12/2025 17:00 | Dominet (HK) Limited                                    | Business,General,Media,Technology  |
-| one.boston    | resell    | 132            | 44     | 3      | 10/10/2017 22:33 | 10/10/2025 22:33 | GoDaddy.com, LLC                                        | Business,General,Media,Technology  |
-| one.sexy      | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.ceo       | resell    | 132            | 44     | 3      | 28/04/2025 08:13 | 28/04/2026 23:59 | Sav.com, LLC - 47                                       | Business,General,Media,Technology  |
-| one.voto      | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.jewelry   | resell    | 132            | 44     | 3      | 06/01/2025 17:16 | 06/01/2026 17:16 | Sav.com, LLC                                            | Business,General,Media,Technology  |
-| one.software  | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.spot      | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.engineer  | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.lifestyle | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.furniture | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.boats     | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| one.luxury    | available | 132            | 44     | 3      |                  |                  |                                                         | Business,General,Media,Technology  |
-| action.site   | available | 128            | 96     | 6      |                  |                  |                                                         | Business,Entertainment,General,Law |
-| away.at       | sold      | 126            | 48     | 4      |                  |                  | Domainers Registrar AG ( https://nic.at/registrar/668 ) | Business,Media,Travel              |
-| special.store | available | 124            | 80     | 7      |                  |                  |                                                         | Business,Media,Retail              |
-| brief.gg      | available | 124            | 52     | 5      |                  |                  |                                                         | Business,Education,General,Law     |
-| trust.expert  | available | 124            | 92     | 5      |                  |                  |                                                         | Business,Finance,Law               |
-| special.at    | sold      | 124            | 80     | 7      |                  |                  | GoDaddy.com, LLC ( https://nic.at/registrar/693 )       | Business,Media,Retail              |
-| steady.me     | expiring  | 122            | 80     | 6      | 17/07/2008 17:28 | 17/07/2025 17:28 | GoDaddy.com, LLC                                        | Business,Finance,Healthcare        |
-| count.pro     | sold      | 122            | 72     | 5      | 30/05/2018 10:20 | 30/05/2026 10:20 | Dynadot Inc                                             | Business,Finance,General           |
+| domain              | status    | attractiveness | demand | length | created          | expires          | registrar                                                          | sectors                           |
+| ------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------------------------------ | --------------------------------- |
+| tenth.business      | available | 116            | 7      | 5      |                  |                  |                                                                    | Mathematics                       |
+| flat.business       | expiring  | 116            | 24     | 4      | 24/08/2024 17:00 | 24/08/2025 17:00 | Sav.com, LLC - 19                                                  | Construction,Real Estate          |
+| twentieth.business  | available | 92             | 3      | 9      |                  |                  |                                                                    | Mathematics                       |
+| nought.business     | available | 92             | 4      | 6      |                  |                  |                                                                    | Mathematics                       |
+| leash.business      | available | 90             | 7      | 5      |                  |                  |                                                                    | General,Health and Fitness,Retail |
+| three.business      | available | 88             | 24     | 5      |                  |                  |                                                                    | Mathematics                       |
+| fifteen.business    | expiring  | 88             | 13     | 7      | 02/09/2022 16:00 | 02/09/2025 16:00 | GoDaddy.com, LLC                                                   | Mathematics                       |
+| sixteen.business    | available | 88             | 11     | 7      |                  |                  |                                                                    | Mathematics                       |
+| hundred.business    | available | 88             | 14     | 7      |                  |                  |                                                                    | Mathematics                       |
+| xix.business        | available | 86             | 11     | 3      |                  |                  |                                                                    | Mathematics                       |
+| xiv.business        | available | 86             | 12     | 3      |                  |                  |                                                                    | Mathematics                       |
+| thousand.business   | available | 84             | 8      | 8      |                  |                  |                                                                    | Mathematics                       |
+| twentytwo.business  | available | 84             | 11     | 10     |                  |                  |                                                                    | Mathematics                       |
+| seventeen.business  | available | 84             | 7      | 9      |                  |                  |                                                                    | Mathematics                       |
+| twentyone.business  | resell    | 84             | 13     | 10     | 15/08/2025 15:15 | 15/08/2026 15:15 | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | Mathematics                       |
+| thirteen.business   | available | 84             | 10     | 8      |                  |                  |                                                                    | Mathematics                       |
+| fourteen.business   | available | 84             | 8      | 8      |                  |                  |                                                                    | Mathematics                       |
+| nineteen.business   | available | 84             | 8      | 8      |                  |                  |                                                                    | Mathematics                       |
+| decade.business     | available | 82             | 10     | 6      |                  |                  |                                                                    | Mathematics                       |
+| dozen.business      | available | 82             | 10     | 5      |                  |                  |                                                                    | Mathematics                       |
+| yard.business       | available | 80             | 26     | 4      |                  |                  |                                                                    | Construction,General              |
+| twenty.business     | available | 80             | 12     | 6      |                  |                  |                                                                    | Mathematics                       |
+| twentysix.business  | available | 78             | 8      | 10     |                  |                  |                                                                    | Mathematics                       |
+| threed.business     | available | 76             | 7      | 7      |                  |                  |                                                                    | Technology                        |
+| fourteenth.business | available | 76             | 1      | 10     |                  |                  |                                                                    | Mathematics                       |
+| thirteenth.business | available | 76             | 4      | 10     |                  |                  |                                                                    | Mathematics                       |
+| hundredth.business  | available | 76             | 1      | 9      |                  |                  |                                                                    | Mathematics                       |
+| fifteenth.business  | available | 76             | 2      | 9      |                  |                  |                                                                    | Mathematics                       |
+| thousandth.business | available | 76             | 1      | 10     |                  |                  |                                                                    | Mathematics                       |
+| eighteen.business   | resell    | 76             | 7      | 8      | 08/07/2024 11:15 | 08/07/2026 11:15 | GoDaddy.com, LLC                                                   | Mathematics                       |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/business-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/business-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
