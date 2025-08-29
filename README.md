@@ -1,17 +1,17 @@
 
-# **Business One-Word Domain Names**: Daily Updated List of Available Domains
+# **business One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Business one-word domains.
+This regularly updated dataset includes the latest available business one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/business-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Business one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **business one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Business domains.
+- **Domain Name**: High-quality, single-word business domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Business one-word d
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain          | status    | attractiveness | demand | length | created          | expires          | registrar                                    | sectors                           |
-| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | -------------------------------------------- | --------------------------------- |
-| okay.partners   | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.college    | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.accountant | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.christmas  | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.inc        | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.university | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.contact    | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.loans      | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.diet       | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.guitars    | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.london     | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.racing     | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.co         | resell    | 146            | 28     | 4      | 20/07/2010 18:01 | 19/07/2026 23:59 | Dynadot Inc                                  | Business,Retail                   |
-| okay.property   | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| okay.trade      | available | 146            | 28     | 4      |                  |                  |                                              | Business,Retail                   |
-| correct.so      | available | 140            | 72     | 7      |                  |                  |                                              | Business,Education,Technology     |
-| one.cab         | resell    | 132            | 43     | 3      | 19/01/2024 17:00 | 19/01/2026 17:00 | Xiamen ChinaSource Internet Service Co., Ltd | Business,General,Media,Technology |
-| one.family      | expired   | 132            | 43     | 3      | 21/06/2024 06:02 | 21/06/2025 06:02 | Porkbun LLC                                  | Business,General,Media,Technology |
-| one.bar         | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.airforce    | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.kim         | resell    | 132            | 43     | 3      | 16/12/2023 17:00 | 16/12/2025 17:00 | Dominet (HK) Limited                         | Business,General,Media,Technology |
-| one.boston      | resell    | 132            | 43     | 3      | 10/10/2017 22:33 | 10/10/2025 22:33 | GoDaddy.com, LLC                             | Business,General,Media,Technology |
-| one.sexy        | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.ceo         | resell    | 132            | 43     | 3      | 28/04/2025 08:13 | 28/04/2026 23:59 | Sav.com, LLC - 47                            | Business,General,Media,Technology |
-| one.voto        | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.jewelry     | resell    | 132            | 43     | 3      | 06/01/2025 17:16 | 06/01/2026 17:16 | Sav.com, LLC                                 | Business,General,Media,Technology |
-| one.software    | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.spot        | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.engineer    | available | 132            | 43     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.live        | expiring  | 132            | 43     | 3      | 21/09/2023 19:45 | 21/09/2025 19:45 | Name.com, Inc.                               | Business,General,Media,Technology |
+| domain              | status    | attractiveness | demand | length | created          | expires          | registrar         | sectors                               |
+| ------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ----------------- | ------------------------------------- |
+| off.business        | available | 128            | 22     | 3      |                  |                  |                   | Business,General                      |
+| away.business       | resell    | 126            | 23     | 4      | 17/03/2022 09:40 | 17/03/2026 09:40 | Spaceship, Inc.   | Business,Media,Travel                 |
+| complete.business   | available | 120            | 21     | 8      |                  |                  |                   | Manufacturing,Retail,Technology       |
+| tender.business     | available | 120            | 22     | 6      |                  |                  |                   | Hospitality,Retail                    |
+| tenth.business      | available | 116            | 7      | 5      |                  |                  |                   | Mathematics                           |
+| equal.business      | available | 116            | 18     | 5      |                  |                  |                   | Education,General,Law                 |
+| fond.business       | available | 116            | 11     | 4      |                  |                  |                   | General,Hospitality,Retail            |
+| whatever.business   | available | 116            | 25     | 8      |                  |                  |                   | Business,Entertainment,Media          |
+| flat.business       | expiring  | 116            | 23     | 4      | 24/08/2024 17:00 | 24/08/2025 17:00 | Sav.com, LLC - 19 | Construction,Real Estate              |
+| tonic.business      | available | 114            | 22     | 5      |                  |                  |                   | Health and Fitness,Medicine,Science   |
+| flush.business      | available | 114            | 12     | 5      |                  |                  |                   | Business,Finance,Media                |
+| average.business    | available | 112            | 12     | 7      |                  |                  |                   | Mathematics                           |
+| overnight.business  | available | 112            | 15     | 9      |                  |                  |                   | Hospitality,Travel                    |
+| acute.business      | available | 112            | 9      | 5      |                  |                  |                   | Mathematics,Medicine,Science          |
+| audible.business    | available | 112            | 29     | 7      |                  |                  |                   | Entertainment,Technology              |
+| adult.business      | available | 110            | 23     | 5      |                  |                  |                   | Education,Healthcare                  |
+| advance.business    | resell    | 110            | 27     | 7      | 29/07/2021 11:53 | 29/07/2026 11:53 | Dynadot Inc       | Business,Education,Healthcare         |
+| bloody.business     | available | 110            | 11     | 6      |                  |                  |                   | Entertainment,Law,Media               |
+| joint.business      | expiring  | 108            | 19     | 5      | 21/09/2016 06:12 | 21/09/2025 06:12 | GoDaddy.com, LLC  | Construction,Healthcare,Manufacturing |
+| abstract.business   | available | 108            | 28     | 8      |                  |                  |                   | Arts,Humanities,Science               |
+| open.business       | resell    | 106            | 50     | 4      | 21/02/2018 23:22 | 21/02/2026 23:22 | Porkbun LLC       | Religion                              |
+| prank.business      | available | 106            | 11     | 5      |                  |                  |                   | Entertainment                         |
+| abiding.business    | available | 106            | 5      | 7      |                  |                  |                   | General,Religion                      |
+| alright.business    | available | 106            | 10     | 7      |                  |                  |                   | Business,Retail                       |
+| trick.business      | available | 106            | 14     | 5      |                  |                  |                   | Entertainment                         |
+| active.business     | resell    | 104            | 26     | 6      | 27/02/2018 17:11 | 27/02/2026 17:11 | Dynadot Inc       | Health and Fitness,Sports,Travel      |
+| option.business     | available | 104            | 18     | 6      |                  |                  |                   | Finance,General                       |
+| sore.business       | available | 104            | 5      | 4      |                  |                  |                   | Healthcare                            |
+| articulate.business | available | 102            | 17     | 10     |                  |                  |                   | Education                             |
+| absent.business     | available | 102            | 8      | 6      |                  |                  |                   | Business,Education,Technology         |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/business-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/business-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
