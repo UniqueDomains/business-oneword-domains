@@ -1,28 +1,28 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-34062282-5b12-4094-ba82-018dedb958bc,services.at,available,72,92,8,,,
-4a85e913-c8a6-4708-90dc-f736d27e9a21,services.cloud,available,72,92,8,,,
+34062282-5b12-4094-ba82-018dedb958bc,services.at,premium,72,92,8,,,
+4a85e913-c8a6-4708-90dc-f736d27e9a21,services.cloud,premium,72,92,8,,,
 022913c9-7fd9-4de1-be91-1ca8236fa9bd,services.co,resell,72,92,8,Hello Internet Corp.,25/02/2010 00:55,24/02/2026 23:59
-3fe05864-07d9-4f83-b2b0-b45f83646628,services.online,available,72,92,8,,,
-8b854c9a-c05e-4fc6-b080-761d5753cf41,services.site,available,72,92,8,,,
-cc2b561f-1640-4620-b0ae-c235e5079085,services.space,available,72,92,8,,,
-224a0751-cdda-4221-a952-af441532c412,services.store,available,72,92,8,,,
-e75868ea-a536-435c-a269-be3e87321d88,services.tech,available,72,92,8,,,
+3fe05864-07d9-4f83-b2b0-b45f83646628,services.online,premium,72,92,8,,,
+8b854c9a-c05e-4fc6-b080-761d5753cf41,services.site,premium,72,92,8,,,
+cc2b561f-1640-4620-b0ae-c235e5079085,services.space,premium,72,92,8,,,
+224a0751-cdda-4221-a952-af441532c412,services.store,premium,72,92,8,,,
+e75868ea-a536-435c-a269-be3e87321d88,services.tech,premium,72,92,8,,,
 0cf4f843-ec67-46a0-9080-915035fa6aeb,management.app,resell,76,84,10,"GoDaddy.com, LLC",08/05/2018 17:10,08/05/2026 17:10
-610f593e-14fd-4cb0-ab50-cf2cb78f8fc4,management.cloud,available,76,84,10,,,
+610f593e-14fd-4cb0-ab50-cf2cb78f8fc4,management.cloud,premium,76,84,10,,,
 5f90bd5a-e7eb-463e-acef-ed9dc551d1bb,management.co,resell,76,84,10,Hello Internet Corp.,24/02/2010 22:49,23/02/2026 23:59
 4da35666-49f1-4040-a3da-b200e9155053,management.com,resell,76,84,10,"NameCheap, Inc.",06/06/1997 04:00,05/06/2026 04:00
-576abe10-44e7-4cfc-a46e-f4411e3d3a39,management.dev,available,76,84,10,,,
-06fb067c-563e-47d7-9903-ca43304da860,management.expert,available,76,84,10,,,
+576abe10-44e7-4cfc-a46e-f4411e3d3a39,management.dev,premium,76,84,10,,,
+06fb067c-563e-47d7-9903-ca43304da860,management.expert,premium,76,84,10,,,
 62550ad5-4086-4fa1-b997-c6463b8f3091,management.gg,resell,76,84,10,Dynadot Inc. (https://www.dynadot.com),,
 e00d3085-4a5b-4715-aa43-057d10669695,management.io,resell,76,84,10,"Name.com, Inc.",17/05/2024 21:03,17/05/2026 21:03
 6c620f56-b63b-4674-b288-ab49cef371a2,management.me,resell,76,84,10,Dynadot Inc,13/09/2015 02:35,13/09/2025 02:35
-f240a3ef-5324-4e77-af54-3f339bff729b,management.online,available,76,84,10,,,
+f240a3ef-5324-4e77-af54-3f339bff729b,management.online,premium,76,84,10,,,
 9481735c-16c7-403f-b5b2-f4c5bd451b54,management.org,expiring,76,84,10,"GoDaddy.com, LLC",24/07/1998 04:00,23/07/2025 04:00
 5d44fc0b-3483-4e4c-a410-a23676c59dcc,management.pro,resell,76,84,10,"EnCirca, Inc.",22/06/2007 00:00,22/06/2026 00:00
-7b1a92c0-c930-4323-91d2-0d659d73ae76,management.site,available,76,84,10,,,
-729f67c4-8cb6-4cee-a7a8-7e0cf31607c9,management.space,available,76,84,10,,,
-ed40715b-4b23-4093-a52d-9a50d2f72234,management.store,available,76,84,10,,,
-70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,available,76,84,10,,,
+7b1a92c0-c930-4323-91d2-0d659d73ae76,management.site,premium,76,84,10,,,
+729f67c4-8cb6-4cee-a7a8-7e0cf31607c9,management.space,premium,76,84,10,,,
+ed40715b-4b23-4093-a52d-9a50d2f72234,management.store,premium,76,84,10,,,
+70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,premium,76,84,10,,,
 8eff310e-7625-494e-b8fd-0e1a8a5a8a77,commerce.gg,resell,58,96,8,Porkbun LLC (https://porkbun.com/),,
 37cb18b5-0d7d-4c78-8ba9-f9cf56e99598,commerce.online,available,58,96,8,,,
 b75008b6-888f-498a-8f25-13a93f5ed5d7,commerce.site,available,58,96,8,,,
@@ -58,13 +58,13 @@ a006a7c4-e7e4-4089-b972-47b7f0168ed6,consulting.cloud,resell,72,84,10,Tucows Dom
 206389f2-7fb8-46e7-aebf-36ca8f62d1d7,consulting.expert,available,72,84,10,,,
 f4582d06-fa6e-4141-8f80-98985aa30b76,consulting.gg,resell,72,84,10,"NameCheap, Inc (https://www.namecheap.com)",,
 8fe92a99-e4ad-4987-8eab-0cd02d0cf4f9,consulting.io,resell,72,84,10,Dynadot11 LLC,08/12/2018 10:18,08/12/2025 10:18
-ed1426e6-577b-4462-90a9-3221a0cd9e70,consulting.me,available,72,84,10,,,
-0e778dac-b547-4c65-96d4-d4ed7e50031d,consulting.online,available,72,84,10,,,
+ed1426e6-577b-4462-90a9-3221a0cd9e70,consulting.me,premium,72,84,10,,,
+0e778dac-b547-4c65-96d4-d4ed7e50031d,consulting.online,premium,72,84,10,,,
 537047a6-5d0d-4437-8b13-dc507575483a,consulting.pro,resell,72,84,10,"Spaceship, Inc.",06/05/2023 15:15,06/05/2026 15:15
-5458ba97-849a-4cd8-b9c3-4d79211dbefe,consulting.site,available,72,84,10,,,
+5458ba97-849a-4cd8-b9c3-4d79211dbefe,consulting.site,premium,72,84,10,,,
 5fa0715f-cc42-461b-80a1-58cc8af3b945,consulting.space,available,72,84,10,,,
-00f6622a-efbd-49d6-85a5-7feda882bde2,consulting.store,available,72,84,10,,,
-60e49390-85c3-4245-96c8-f5927a1a8a20,consulting.xyz,available,72,84,10,,,
+00f6622a-efbd-49d6-85a5-7feda882bde2,consulting.store,premium,72,84,10,,,
+60e49390-85c3-4245-96c8-f5927a1a8a20,consulting.xyz,premium,72,84,10,,,
 4eeca7f4-c6d5-43c6-a6c9-a8311d1a4d27,bookkeeping.me,expiring,60,88,11,Mesh Digital Limited,18/07/2008 11:03,18/07/2025 11:03
 a5f7ec29-e923-49c5-b6fb-f81032a357c1,bookkeeping.ninja,expiring,60,88,11,"GoDaddy.com, LLC",06/07/2020 20:50,06/07/2025 20:50
 8b9030e5-3c9c-4b6f-b288-f71cfa530b0a,bookkeeping.online,available,60,88,11,,,
@@ -114,7 +114,7 @@ eb7fee7e-142b-40b6-93fc-23f2425fb109,training.online,premium,70,88,8,,,
 760afe27-3b6d-4338-8a25-810a7c7794aa,training.site,premium,70,88,8,,,
 5c59e59e-bfc0-45e3-af89-b4db938d67bc,training.so,resell,70,88,8,SOSTEC TECHNOLOGIES_LR,19/06/2024 05:42,19/06/2026 05:42
 fad07601-443b-46bc-b6e3-2f0cd412c2f4,training.space,premium,70,88,8,,,
-9e0b49c6-34a9-4e12-93bc-2e0b8d8dec02,training.store,available,70,88,8,,,
+9e0b49c6-34a9-4e12-93bc-2e0b8d8dec02,training.store,premium,70,88,8,,,
 18904504-415a-4914-be80-bb6b17e784fe,training.tech,premium,70,88,8,,,
 94b268b3-231a-4785-aa02-36e3987c6424,coaching.at,available,64,84,8,,,
 b4adbf15-759a-4d30-97f2-210e8420f477,coaching.cloud,available,64,84,8,,,
@@ -193,16 +193,16 @@ f6a8f9f0-1acc-44cc-bfdc-db3da9440264,webhosting.site,available,,60,11,,,
 76337131-9b58-4021-8ed1-ab1c6375aadd,webhosting.store,available,,60,11,,,
 b5e0523c-8f3f-47e2-b2b9-2f91275e5867,webhosting.tech,available,,60,11,,,
 28664701-8573-4a7b-9ed9-7aeb19e4c48c,webhosting.xyz,available,,60,11,,,
-c73776cb-d4ee-4d1c-a6a4-3da245e7aaa9,development.at,available,62,84,11,,,
-30d159fe-8883-447d-ba23-9679a0a6c949,development.cloud,available,62,84,11,,,
+c73776cb-d4ee-4d1c-a6a4-3da245e7aaa9,development.at,premium,62,84,11,,,
+30d159fe-8883-447d-ba23-9679a0a6c949,development.cloud,premium,62,84,11,,,
 699a6171-f03f-4fd9-a998-19fd9106c083,development.expert,expired,62,84,11,Nom-iq Ltd. dba COM LAUDE,14/05/2014 16:00,14/05/2025 16:00
 8eb7c37d-8585-462b-8672-bfaeedd13248,development.gg,resell,62,84,11,Enrapture Limited (https://enrapture.gg),,
 d5e5dc54-8128-4093-b962-e84a30680283,development.me,expiring,62,84,11,"GoDaddy.com, LLC",09/07/2008 17:03,09/07/2025 17:03
-dd18b25a-0ada-428c-9461-e04ac6440a87,development.online,available,62,84,11,,,
+dd18b25a-0ada-428c-9461-e04ac6440a87,development.online,premium,62,84,11,,,
 37789032-6dad-4ac0-8bbd-583130c03fde,development.so,expired,62,84,11,,,
-f76b8a92-4776-4500-bcbc-65549a47efed,development.space,available,62,84,11,,,
-60096ec4-079d-4887-beac-b7e9ce6ca30d,development.store,available,62,84,11,,,
-955a09a3-32e2-49bc-9cf1-70def7ddad86,development.tech,available,62,84,11,,,
+f76b8a92-4776-4500-bcbc-65549a47efed,development.space,premium,62,84,11,,,
+60096ec4-079d-4887-beac-b7e9ce6ca30d,development.store,premium,62,84,11,,,
+955a09a3-32e2-49bc-9cf1-70def7ddad86,development.tech,premium,62,84,11,,,
 807895dd-f09e-421c-87cd-5d44abd56ed8,development.xyz,resell,62,84,11,"Go Daddy, LLC",02/06/2014 17:02,02/06/2026 23:59
 73571861-ae9e-4c62-899f-55fe1fbf6802,customer.app,expiring,74,96,8,Namecheap Inc.,26/07/2023 12:05,26/07/2025 12:05
 6af0343d-1dc9-4c14-9dce-635715a5a8ab,customer.at,available,74,96,8,,,
