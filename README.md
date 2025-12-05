@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BUSINESS one-word domains still available to buy.
 
-This dataset contains 4,059 .BUSINESS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,058 .BUSINESS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BUSINESS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business-oneword-domains&utm_content=description.top) (4,059) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BUSINESS one word dom
 | aaa.business        | available | 70       | 38%    | 3      |                 |                  |                  |
 | abactinal.business  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abaft.business      | available | 43       | 2%     | 5      |                 |                  |                  |
-| abandoned.business  | available | 58       | 10%    | 9      |                 |                  |                  |
+| abandoned.business  | available | 58       | 7%     | 9      |                 |                  |                  |
 | abashed.business    | available | 60       | 2%     | 7      |                 |                  |                  |
 | abasic.business     | available | 54       | 2%     | 6      |                 |                  |                  |
 | abatable.business   | available | 54       | 1%     | 8      |                 |                  |                  |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BUSINESS one word dom
 | abaxial.business    | available | 54       | 2%     | 7      |                 |                  |                  |
 | abbatial.business   | available | 50       | 1%     | 8      |                 |                  |                  |
 | abdicable.business  | available | 50       | 1%     | 9      |                 |                  |                  |
-| abdominal.business  | available | 82       | 1%     | 9      |                 |                  |                  |
+| abdominal.business  | available | 82       | 5%     | 9      |                 |                  |                  |
 | abdominous.business | available | 56       | 1%     | 10     |                 |                  |                  |
 | abducens.business   | available | 54       | 1%     | 8      |                 |                  |                  |
 | abducent.business   | available | 68       | 1%     | 8      |                 |                  |                  |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.BUSINESS one word dom
 | aberdonian.business | available | 68       | 1%     | 10     |                 |                  |                  |
 | aberrant.business   | available | 74       | 7%     | 8      |                 |                  |                  |
 | abeyant.business    | available | 56       | 2%     | 7      |                 |                  |                  |
-| abhorrent.business  | available | 54       | 1%     | 9      |                 |                  |                  |
+| abhorrent.business  | available | 54       | 3%     | 9      |                 |                  |                  |
 | abiding.business    | available | 106      | 5%     | 7      |                 |                  |                  |
 | abient.business     | available | 54       | 1%     | 6      |                 |                  |                  |
 | ability.business    | resell    | 92       | 18%    | 7      | Spaceship, Inc. | 16/11/2022 15:15 | 16/11/2025 15:15 |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BUSINESS one word dom
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
