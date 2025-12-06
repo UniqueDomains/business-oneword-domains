@@ -55,14 +55,14 @@ f6f012e9-fca3-4e5f-948c-1f906f384b44,trade.space,available,116,92,5,,,
 c4a329bf-1f5e-4ab4-8d4a-ff4bdf59a584,trade.us,resell,116,92,5,Porkbun,24/04/2002 14:01,23/04/2026 23:59
 dee17421-3806-4db9-823f-b150717aa1c7,consulting.at,available,72,84,10,,,
 a006a7c4-e7e4-4089-b972-47b7f0168ed6,consulting.cloud,resell,72,84,10,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:18
-206389f2-7fb8-46e7-aebf-36ca8f62d1d7,consulting.expert,available,72,84,10,,,
+206389f2-7fb8-46e7-aebf-36ca8f62d1d7,consulting.expert,premium,72,84,10,,,
 f4582d06-fa6e-4141-8f80-98985aa30b76,consulting.gg,resell,72,84,10,"NameCheap, Inc (https://www.namecheap.com)",,
 8fe92a99-e4ad-4987-8eab-0cd02d0cf4f9,consulting.io,resell,72,84,10,Dynadot11 LLC,08/12/2018 10:18,08/12/2025 10:18
 ed1426e6-577b-4462-90a9-3221a0cd9e70,consulting.me,premium,72,84,10,,,
 0e778dac-b547-4c65-96d4-d4ed7e50031d,consulting.online,premium,72,84,10,,,
 537047a6-5d0d-4437-8b13-dc507575483a,consulting.pro,resell,72,84,10,"Spaceship, Inc.",06/05/2023 15:15,06/05/2026 15:15
 5458ba97-849a-4cd8-b9c3-4d79211dbefe,consulting.site,premium,72,84,10,,,
-5fa0715f-cc42-461b-80a1-58cc8af3b945,consulting.space,available,72,84,10,,,
+5fa0715f-cc42-461b-80a1-58cc8af3b945,consulting.space,premium,72,84,10,,,
 00f6622a-efbd-49d6-85a5-7feda882bde2,consulting.store,premium,72,84,10,,,
 60e49390-85c3-4245-96c8-f5927a1a8a20,consulting.xyz,premium,72,84,10,,,
 4eeca7f4-c6d5-43c6-a6c9-a8311d1a4d27,bookkeeping.me,expiring,60,88,11,Mesh Digital Limited,18/07/2008 11:03,18/07/2025 11:03
@@ -117,13 +117,13 @@ fad07601-443b-46bc-b6e3-2f0cd412c2f4,training.space,premium,70,88,8,,,
 9e0b49c6-34a9-4e12-93bc-2e0b8d8dec02,training.store,premium,70,88,8,,,
 18904504-415a-4914-be80-bb6b17e784fe,training.tech,premium,70,88,8,,,
 94b268b3-231a-4785-aa02-36e3987c6424,coaching.at,available,64,84,8,,,
-b4adbf15-759a-4d30-97f2-210e8420f477,coaching.cloud,available,64,84,8,,,
+b4adbf15-759a-4d30-97f2-210e8420f477,coaching.cloud,premium,64,84,8,,,
 abc4eb53-2847-41c0-bd62-b0fc88feb931,coaching.gg,resell,64,84,8,Chang Wen Ling t/a private.tw (http://www.private.tw),,
 d19cf8de-cb2c-49cf-b62d-cd7beb8a80c2,coaching.me,resell,64,84,8,Virtualia LLC,26/05/2024 15:15,26/05/2026 15:15
-0cb6aaad-a1d5-4f4d-acf9-a8c24f05d3db,coaching.online,available,64,84,8,,,
-22f4e634-9c92-45ec-91ec-536097ddd4b9,coaching.site,available,64,84,8,,,
-5c07a0ca-6b2d-4610-8103-7865a3750474,coaching.store,available,64,84,8,,,
-8116791e-624d-47c1-b62d-cdf128f1bf11,coaching.tech,available,64,84,8,,,
+0cb6aaad-a1d5-4f4d-acf9-a8c24f05d3db,coaching.online,premium,64,84,8,,,
+22f4e634-9c92-45ec-91ec-536097ddd4b9,coaching.site,premium,64,84,8,,,
+5c07a0ca-6b2d-4610-8103-7865a3750474,coaching.store,premium,64,84,8,,,
+8116791e-624d-47c1-b62d-cdf128f1bf11,coaching.tech,premium,64,84,8,,,
 e373c781-2461-4d80-989d-63e1cd9368b6,coaching.us,resell,64,84,8,"GoDaddy.com, LLC",10/07/2013 18:02,09/07/2026 23:59
 3b79df4d-e240-4e70-8bc9-f4d6d8d880ad,coaching.xyz,resell,64,84,8,"Go Daddy, LLC",01/05/2025 16:16,01/05/2026 23:59
 4b877ab6-d72e-453e-adf0-8273c3091489,mentoring.at,sold,74,80,9,Hetzner Online GmbH ( https://nic.at/registrar/225 ),,
@@ -135,7 +135,7 @@ ea3bbcc7-54e6-4459-91f6-d9e22e8625c5,mentoring.online,premium,74,80,9,,,
 af05b518-2384-4ceb-b9c5-c720cfeb0ded,mentoring.pro,resell,74,80,9,"GKG.NET, INC.",09/02/2021 14:30,09/02/2026 14:30
 2ccea8e0-7846-42ef-8221-4404c7cfec2a,mentoring.so,available,74,80,9,,,
 9605792a-adc4-4722-9691-4732b87b36e9,mentoring.store,expiring,74,80,9,Communigal Communications Ltd,15/07/2024 03:05,15/07/2025 23:59
-88c5c042-efb4-48ff-8409-32f9710ef6af,mentoring.tech,available,74,80,9,,,
+88c5c042-efb4-48ff-8409-32f9710ef6af,mentoring.tech,premium,74,80,9,,,
 7510a994-fa6d-4242-8842-6bee9bc059b9,mentoring.us,resell,74,80,9,"GoDaddy.com, LLC",05/08/2019 00:01,05/08/2026 00:01
 b4f82efc-d313-47fe-a4df-fcd0e316bc83,advertising.at,resell,76,84,11,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
 1f95f675-5619-4b73-bf31-505e27f98aaa,advertising.cloud,resell,76,84,11,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:15
@@ -656,14 +656,31 @@ cec5a897-3df4-4c53-9db5-10efc1691ceb,marketing.space,available,74,84,9,,,
 cbae1ae2-ec88-49cd-97cd-e85f01c522f6,marketing.tech,available,74,84,9,,,
 275a0d80-e20b-4679-911a-b4d1505bcbf5,marketing.us,resell,74,84,9,"GoDaddy.com, LLC",24/04/2002 14:00,23/04/2027 23:59
 d5f0621f-20cb-462c-94be-56fe3d78a13f,marketing.zone,available,74,84,9,,,
+783e905d-03f8-4a0f-8ebd-39a463b6f778,financial.vision,available,62,21,9,,,
+545436f2-df99-491c-9492-642e9a2543e5,financial.vodka,available,62,21,9,,,
+f6895583-6203-44ef-a08c-66e53d08e0ca,financial.vote,available,62,21,9,,,
+ea20bcaf-0c1d-4ebf-9cb7-2734777df10a,financial.voting,available,62,21,9,,,
+971d47d8-9bf1-4526-b81c-a8262ec0e6b8,financial.voto,available,62,21,9,,,
+fc49af0d-b5df-47eb-a35f-dc9fd9177b52,financial.voyage,available,62,21,9,,,
+83d25dc9-552f-4900-a59a-95bd3c37823c,financial.watch,available,62,21,9,,,
+e07e49a5-d089-45f2-bbd3-4019dadfd9ef,financial.webcam,available,62,21,9,,,
+1530dacc-8740-4508-b221-9a8fc4b77e1a,financial.website,available,62,21,9,,,
+d16a1034-abc3-4efe-80e7-8d6565546a3c,financial.wedding,available,62,21,9,,,
+b610ac66-4407-47f5-a59d-dc1f07fb6502,financial.wine,available,62,21,9,,,
+d74ec57b-c783-40b5-87a3-aa3b86250595,financial.work,available,62,21,9,,,
+145c7ee6-efc1-4d91-8dc8-1b2ca5cc4081,financial.world,resell,62,21,9,1API GmbH,14/01/2015 16:00,14/01/2026 16:00
+e8e98134-7d1b-49cd-9fc9-f76f9d3b624a,financial.wtf,available,62,21,9,,,
+4892faa6-d3a1-448f-8864-442cf7b35ea4,financial.xyz,resell,62,21,9,"Sav.com, LLC",23/11/2021 00:58,23/11/2025 23:59
+f62b6673-a759-4662-8a17-c9dd5211a4c2,financial.yachts,available,62,21,9,,,
+7c1af15b-362c-4341-a266-27454348428b,financial.zip,available,62,21,9,,,
 90b03025-3b72-4a50-9f23-cc24200ef0b3,strategy.at,available,74,88,8,,,
-525ac8bc-79cc-4de1-9dc4-017a7ca3c948,strategy.cloud,available,74,88,8,,,
-c77c7b2a-1b0b-4af0-b469-ae1548c383ba,strategy.online,available,74,88,8,,,
+525ac8bc-79cc-4de1-9dc4-017a7ca3c948,strategy.cloud,premium,74,88,8,,,
+c77c7b2a-1b0b-4af0-b469-ae1548c383ba,strategy.online,premium,74,88,8,,,
 9f759304-f182-4e4c-8644-550ec65dc704,strategy.pro,resell,74,88,8,"GKG.NET, INC.",03/07/2017 10:10,03/07/2026 10:10
-6012030d-b7be-4d6f-a5f5-e32d7030c84f,strategy.site,available,74,88,8,,,
+6012030d-b7be-4d6f-a5f5-e32d7030c84f,strategy.site,premium,74,88,8,,,
 7f621f9e-9099-4398-b69d-cd3a8a4c9e31,strategy.so,resell,74,88,8,NameCheap,23/06/2020 15:48,23/06/2026 15:48
-ff98e9d0-d6da-4ad8-b643-da6b7f0425f4,strategy.space,available,74,88,8,,,
-b6a6fc8e-c35a-4c2c-b398-02fa63d1431e,strategy.store,available,74,88,8,,,
+ff98e9d0-d6da-4ad8-b643-da6b7f0425f4,strategy.space,premium,74,88,8,,,
+b6a6fc8e-c35a-4c2c-b398-02fa63d1431e,strategy.store,premium,74,88,8,,,
 6b97cae3-f081-45d4-985a-794233c4385d,strategy.us,resell,74,88,8,"GoDaddy.com, LLC",28/04/2004 17:17,27/04/2026 23:59
 41357862-6795-4ab2-bdd7-1197dd23e442,financial.ac,expiring,62,21,9,Key-Systems GmbH,30/08/2010 15:54,30/08/2025 15:54
 b538d145-c5ba-406a-9ab6-a3487df62f55,financial.accountant,available,62,21,9,,,
@@ -982,20 +999,3 @@ ddd7bbc2-eeac-4e45-bf79-66574206cbae,financial.shiksha,available,62,21,9,,,
 1707d8bf-1d4e-42d7-9712-79f010fe9c73,financial.skin,available,62,21,9,,,
 76ec84d0-0c7e-47ee-b52f-3181092e379a,financial.so,resell,62,21,9,Dynadot LLC,17/02/2022 05:11,17/02/2026 05:11
 cf3cd15b-e199-4fb1-9ac9-cf26bb93eb10,financial.soccer,available,62,21,9,,,
-61d923bc-49f5-4053-880b-2b56cf1dce57,financial.social,resell,62,21,9,"DNSPod, Inc.",05/09/2019 04:08,05/09/2026 04:08
-f813c807-8b19-4569-9fd6-0f0f1d52cd19,financial.software,available,62,21,9,,,
-67f1dd6b-7c49-4d26-9e9e-e081e877ed92,financial.solar,available,62,21,9,,,
-a5cef34b-9605-4cfa-80a1-7063c78244f7,financial.solutions,resell,62,21,9,Dynadot Inc,09/09/2016 07:56,09/09/2026 07:56
-84696360-6f33-48ce-818c-b5c9ce7bb9d8,financial.soy,available,62,21,9,,,
-9540a96a-d0ff-4f12-acf5-faaa55d95ae4,financial.space,available,62,21,9,,,
-b7909d90-6b17-4b75-b0da-f9aba6f27dd1,financial.spot,available,62,21,9,,,
-f1c402a1-51ef-413c-a9f7-53a90927ac0d,financial.srl,available,62,21,9,,,
-42f68b3a-275b-449f-b160-8b67f84b5401,financial.store,available,62,21,9,,,
-2650ad82-7019-492b-a226-cbb28f0a07f1,financial.stream,available,62,21,9,,,
-e44ea967-0c39-49ba-bcac-64a72effe8c8,financial.study,available,62,21,9,,,
-cac7982b-e4b2-41f4-b8f2-440b496d138c,financial.style,available,62,21,9,,,
-ccd97a30-a667-4838-9e6b-a8b11e4e2c20,financial.sucks,available,62,21,9,,,
-b6c3950e-a46a-4f99-87c1-0444ea6c65d4,financial.supplies,available,62,21,9,,,
-133b90e9-9f5d-47d7-a888-c7eebf1b6948,financial.support,resell,62,21,9,"Go China Domains, LLC",23/03/2014 16:00,23/03/2026 16:00
-acdae2fa-1be4-4d5d-a3ae-61dad7acdc89,financial.surf,available,62,21,9,,,
-7db2e795-7c01-4830-98c6-a8a5f4ebae77,financial.surgery,available,62,21,9,,,
