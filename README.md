@@ -1,62 +1,62 @@
 
-# List of .BUSINESS One Word Domain Names (5,992)
+# List of Business One Word Domain Names (19,391)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/business-oneword-domains.svg?style=flat)]() [![5,992 .BUSINESS one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-5%2C992-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Business-oneword-domains.svg?style=flat)]() [![19,391 Business one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-19%2C391-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .BUSINESS one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Business one-word domains still available to buy.
 
-This dataset contains 6,871 .BUSINESS one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Business one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.BUSINESS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business-oneword-domains&utm_content=description.top) (5,992) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Business one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=description.top) (19,391) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/business-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/business-oneword-domains/blob/main/business.csv"><b>⬇️ CSV (6.87K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/business-oneword-domains/blob/main/business.json"><b>⬇️ JSON (6.87K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.99K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Business-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Business-oneword-domains/blob/main/Business.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Business-oneword-domains/blob/main/Business.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (19.39K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
-| ------------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
-| aaa.business        | premium   | 70       | 35%    | 3      |                   |                  |                  |
-| aaron.business      | resell    | 88       | 28%    | 5      | Sav.com, LLC - 12 | 06/12/2025 15:15 | 06/12/2026 15:15 |
-| abactinal.business  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abaft.business      | available | 43       | 2%     | 5      |                   |                  |                  |
-| abandoned.business  | available | 58       | 7%     | 9      |                   |                  |                  |
-| abashed.business    | available | 60       | 2%     | 7      |                   |                  |                  |
-| abasic.business     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abatable.business   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abatic.business     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abaxial.business    | available | 54       | 2%     | 7      |                   |                  |                  |
-| abbatial.business   | available | 50       | 1%     | 8      |                   |                  |                  |
-| abdicable.business  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abdominal.business  | available | 82       | 5%     | 9      |                   |                  |                  |
-| abdominous.business | available | 56       | 1%     | 10     |                   |                  |                  |
-| abducens.business   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abducent.business   | available | 68       | 1%     | 8      |                   |                  |                  |
-| abducting.business  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abenaki.business    | available | 82       | 3%     | 7      |                   |                  |                  |
-| aberdonian.business | available | 68       | 1%     | 10     |                   |                  |                  |
-| aberrant.business   | available | 74       | 7%     | 8      |                   |                  |                  |
-| abeyant.business    | available | 56       | 2%     | 7      |                   |                  |                  |
-| abhorrent.business  | available | 54       | 3%     | 9      |                   |                  |                  |
-| abide.business      | available | 94       | 15%    | 5      |                   |                  |                  |
-| abiding.business    | available | 106      | 5%     | 7      |                   |                  |                  |
-| abient.business     | available | 54       | 1%     | 6      |                   |                  |                  |
-| ability.business    | resell    | 92       | 16%    | 7      | Spaceship, Inc.   | 16/11/2022 15:15 | 16/11/2026 15:15 |
-| abject.business     | available | 94       | 8%     | 6      |                   |                  |                  |
-| abkhas.business     | available | 68       | 1%     | 6      |                   |                  |                  |
-| abkhasian.business  | available | 78       | 1%     | 9      |                   |                  |                  |
-| abkhaz.business     | available | 82       | 2%     | 6      |                   |                  |                  |
+| Domain               | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
+| -------------------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
+| services.investments | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.irish       | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.it          | expiring  | 72       | 24%    | 8      |                  | 04/01/2002 00:00 | 12/12/2025 00:00 |
+| services.jetzt       | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.jewelry     | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.juegos      | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.kaufen      | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.kids        | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.kim         | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.kitchen     | resell    | 72       | 24%    | 8      | GoDaddy.com, LLC | 24/02/2014 02:00 | 24/02/2026 02:00 |
+| services.la          | resell    | 72       | 24%    | 8      | LA Domain Names  | 05/06/2023 08:45 | 05/06/2026 23:59 |
+| services.land        | expiring  | 72       | 24%    | 8      | NameSilo, LLC    | 03/01/2023 00:03 | 03/01/2026 00:03 |
+| services.lawyer      | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.lease       | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.legal       | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.lgbt        | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.life        | resell    | 72       | 24%    | 8      | DNSPod, Inc.     | 10/07/2024 15:15 | 10/07/2026 15:15 |
+| services.lifestyle   | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.limited     | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.link        | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.living      | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.loan        | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.loans       | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.locker      | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.love        | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.ltda        | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.luxury      | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.makeup      | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.marketing   | resell    | 72       | 24%    | 8      | Dynadot Inc      | 16/07/2025 17:00 | 16/07/2026 17:00 |
+| services.mba         | available | 72       | 24%    | 8      |                  |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/business-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/business-oneword-domains/blob/main/business.csv"><b>⬇️ CSV (6.87K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/business-oneword-domains/blob/main/business.json"><b>⬇️ JSON (6.87K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.99K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Business-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Business-oneword-domains/blob/main/Business.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Business-oneword-domains/blob/main/Business.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (19.39K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [.BUSINESS one word dom
 | Travel             | 23,630       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 17,983       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/business-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Business-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=description.image)
         

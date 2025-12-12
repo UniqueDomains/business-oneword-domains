@@ -1,40 +1,4 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-52275e86-57d5-48a9-ba5a-08f031d0ba3f,services.gifts,premium,72,24,8,,,
-291efc8b-97c0-4622-b1a8-37a7ff535b06,services.gives,available,72,24,8,,,
-88141780-3b7d-48ee-9cbf-043f538712f3,services.giving,available,72,24,8,,,
-6a12ec40-99ed-443d-8d07-2faf46fc64d4,services.glass,available,72,24,8,,,
-55571bd7-8035-49af-8ec3-07b52d4adf03,services.global,premium,72,24,8,,,
-5a71ccd9-b2bf-4b5c-a71f-de0ab9c82e25,services.gold,premium,72,24,8,,,
-1d8419d2-cafd-4919-8999-1cd2c775d2dc,services.graphics,premium,72,24,8,,,
-02dc0cbb-7e94-41bc-872f-59a6e2617c13,services.gratis,premium,72,24,8,,,
-c569e2e3-0581-47a8-b3e7-bcebe450ae15,services.gripe,premium,72,24,8,,,
-fefa99b6-790f-4711-a499-e4e2dca8c5cd,services.guitars,available,72,24,8,,,
-10d815f2-7ea8-4536-9d15-108cdc09aeee,services.guru,premium,72,24,8,,,
-74181abd-d3f1-469b-8e17-3e78f927c5dd,services.hair,premium,72,24,8,,,
-97814e16-5357-4ab9-8e7f-4b400cb831a1,services.haus,expired,72,24,8,"NameSilo, LLC",14/11/2024 19:57,14/11/2025 19:57
-6c2e4058-2786-420f-8b5d-be766996642c,services.health,premium,72,24,8,,,
-2db969b6-06f2-442d-b2c3-26e2b67a943f,services.hiphop,premium,72,24,8,,,
-6d205cff-27bf-4d26-8bc8-a15ef646d3d5,services.hiv,premium,72,24,8,,,
-f8ac5cf1-272d-486e-ae23-6c3f644b4c8b,services.hockey,available,72,24,8,,,
-85a233f2-e141-4205-a6fa-56838d63f6a6,services.holdings,premium,72,24,8,,,
-147d05a8-9d18-4567-b4f9-6f051fcfed5a,services.holiday,premium,72,24,8,,,
-180c7bc0-0ce1-458a-bf43-ee8a95ac1fa1,services.homes,premium,72,24,8,,,
-623fa720-54b9-4009-9acf-cb940c4d9e6b,services.horse,premium,72,24,8,,,
-5dfac10a-b617-4cda-adc5-24b7893fba88,services.hospital,available,72,24,8,,,
-a0d461cb-f74c-4290-a640-f6a7f9bad478,services.host,premium,72,24,8,,,
-8d57a187-113e-4772-8734-fbfa2ffa1af0,services.hosting,available,72,24,8,,,
-073483ff-a822-4616-b362-b2fa9fbba21d,services.hot,premium,72,24,8,,,
-13f49478-b7bf-4066-9587-b69151ff3a29,services.house,resell,72,24,8,Virtualia LLC,17/05/2024 15:15,17/05/2026 15:15
-6d3355e4-c520-41c1-8a06-b01133a27d5c,services.icu,premium,72,24,8,,,
-e051394c-a27a-4a70-a0cb-9a1acde9fd1b,services.id,resell,72,24,8,PT Registrasi Nama Domain,16/05/2018 04:57,16/05/2026 23:59
-38b09af8-259f-4925-8cbf-ca61874d548d,services.im,premium,72,24,8,,,
-fd1238da-806b-4f00-bbde-76d82f0080f1,services.immobilien,available,72,24,8,,,
-74b879ff-d989-4dd6-9e9b-c44c10a82031,services.industries,premium,72,24,8,,,
-b1d1dd1b-d6d7-4f09-a7b8-25e4a71d1073,services.info,resell,72,24,8,Dot Holding Inc.,17/10/2022 13:15,17/10/2026 13:15
-4260fddb-d534-41e6-9243-8bb4cb730165,services.ing,premium,72,24,8,,,
-1c93a90c-cc19-430c-a65d-2e6ad4a29be9,services.ink,resell,72,24,8,"DNSPod, Inc.",07/01/2024 00:00,07/01/2027 00:00
-9a485503-2175-4358-9b78-e628b4f2837e,services.institute,premium,72,24,8,,,
-0d28480d-e348-47df-bcaf-3327d94e375e,services.international,resell,72,24,8,"Spaceship, Inc.",11/05/2023 15:15,11/05/2026 15:15
 3689db0d-539f-4cac-b215-f8bfa9096830,services.investments,premium,72,24,8,,,
 00503ed5-97fb-4898-85a4-6aeeb541d1c0,services.irish,available,72,24,8,,,
 11331918-d1ff-4482-aa23-e144ad36cec7,services.it,expiring,72,24,8,,04/01/2002 00:00,12/12/2025 00:00
@@ -368,6 +332,42 @@ e793c50f-e950-420e-8ef1-e9597999770f,services.games,resell,72,24,8,"DNSPod, Inc.
 656168ea-687c-4354-9b72-5b2b7b08a2fe,services.garden,premium,72,24,8,,,
 4126d0eb-9ae5-46c5-9576-d1e080b6749c,services.gay,available,72,24,8,,,
 6d794ed3-0a19-4037-ab21-bb3dbfc39082,services.gift,available,72,24,8,,,
+52275e86-57d5-48a9-ba5a-08f031d0ba3f,services.gifts,premium,72,24,8,,,
+291efc8b-97c0-4622-b1a8-37a7ff535b06,services.gives,available,72,24,8,,,
+88141780-3b7d-48ee-9cbf-043f538712f3,services.giving,available,72,24,8,,,
+6a12ec40-99ed-443d-8d07-2faf46fc64d4,services.glass,available,72,24,8,,,
+55571bd7-8035-49af-8ec3-07b52d4adf03,services.global,premium,72,24,8,,,
+5a71ccd9-b2bf-4b5c-a71f-de0ab9c82e25,services.gold,premium,72,24,8,,,
+1d8419d2-cafd-4919-8999-1cd2c775d2dc,services.graphics,premium,72,24,8,,,
+02dc0cbb-7e94-41bc-872f-59a6e2617c13,services.gratis,premium,72,24,8,,,
+c569e2e3-0581-47a8-b3e7-bcebe450ae15,services.gripe,premium,72,24,8,,,
+fefa99b6-790f-4711-a499-e4e2dca8c5cd,services.guitars,available,72,24,8,,,
+10d815f2-7ea8-4536-9d15-108cdc09aeee,services.guru,premium,72,24,8,,,
+74181abd-d3f1-469b-8e17-3e78f927c5dd,services.hair,premium,72,24,8,,,
+97814e16-5357-4ab9-8e7f-4b400cb831a1,services.haus,expired,72,24,8,"NameSilo, LLC",14/11/2024 19:57,14/11/2025 19:57
+6c2e4058-2786-420f-8b5d-be766996642c,services.health,premium,72,24,8,,,
+2db969b6-06f2-442d-b2c3-26e2b67a943f,services.hiphop,premium,72,24,8,,,
+6d205cff-27bf-4d26-8bc8-a15ef646d3d5,services.hiv,premium,72,24,8,,,
+f8ac5cf1-272d-486e-ae23-6c3f644b4c8b,services.hockey,available,72,24,8,,,
+85a233f2-e141-4205-a6fa-56838d63f6a6,services.holdings,premium,72,24,8,,,
+147d05a8-9d18-4567-b4f9-6f051fcfed5a,services.holiday,premium,72,24,8,,,
+180c7bc0-0ce1-458a-bf43-ee8a95ac1fa1,services.homes,premium,72,24,8,,,
+623fa720-54b9-4009-9acf-cb940c4d9e6b,services.horse,premium,72,24,8,,,
+5dfac10a-b617-4cda-adc5-24b7893fba88,services.hospital,available,72,24,8,,,
+a0d461cb-f74c-4290-a640-f6a7f9bad478,services.host,premium,72,24,8,,,
+8d57a187-113e-4772-8734-fbfa2ffa1af0,services.hosting,available,72,24,8,,,
+073483ff-a822-4616-b362-b2fa9fbba21d,services.hot,premium,72,24,8,,,
+13f49478-b7bf-4066-9587-b69151ff3a29,services.house,resell,72,24,8,Virtualia LLC,17/05/2024 15:15,17/05/2026 15:15
+6d3355e4-c520-41c1-8a06-b01133a27d5c,services.icu,premium,72,24,8,,,
+e051394c-a27a-4a70-a0cb-9a1acde9fd1b,services.id,resell,72,24,8,PT Registrasi Nama Domain,16/05/2018 04:57,16/05/2026 23:59
+38b09af8-259f-4925-8cbf-ca61874d548d,services.im,premium,72,24,8,,,
+fd1238da-806b-4f00-bbde-76d82f0080f1,services.immobilien,available,72,24,8,,,
+74b879ff-d989-4dd6-9e9b-c44c10a82031,services.industries,premium,72,24,8,,,
+b1d1dd1b-d6d7-4f09-a7b8-25e4a71d1073,services.info,resell,72,24,8,Dot Holding Inc.,17/10/2022 13:15,17/10/2026 13:15
+4260fddb-d534-41e6-9243-8bb4cb730165,services.ing,premium,72,24,8,,,
+1c93a90c-cc19-430c-a65d-2e6ad4a29be9,services.ink,resell,72,24,8,"DNSPod, Inc.",07/01/2024 00:00,07/01/2027 00:00
+9a485503-2175-4358-9b78-e628b4f2837e,services.institute,premium,72,24,8,,,
+0d28480d-e348-47df-bcaf-3327d94e375e,services.international,resell,72,24,8,"Spaceship, Inc.",11/05/2023 15:15,11/05/2026 15:15
 64db07ee-bc1a-40ff-ae62-e0fe836be6bb,management.accountant,premium,76,24,10,,,
 54eedd33-78a5-4d6b-b3b8-79abc2e04c6e,management.accountants,available,76,24,10,,,
 c03a5e6e-26df-4945-9c08-246da3dc153d,management.actor,premium,76,24,10,,,
