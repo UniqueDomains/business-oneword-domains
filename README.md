@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .business one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,065 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,065 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,065 domains · **Median ask:** $14.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/business`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| drops.business        | available | $3.99     | —             | 52             | 25     | 5      | name.com          |
-| CocaCola.business     | resell    | —         | —             | 92             | 82     | 9      | GoDaddy.com, LLC  |
-| events.business       | premium   | $500      | —             | 68             | 37     | 6      | name.com          |
-| Trex.business         | available | $25.98    | —             | 80             | 24     | 5      | namecheap         |
-| agents.business       | resell    | —         | —             | 56             | 50     | 6      | Sav.com, LLC      |
-| stories.business      | premium   | $18.20    | $18.20        | 58             | 36     | 7      | namecheap         |
-| gamers.business       | available | $3.99     | —             | 62             | 24     | 6      | name.com          |
-| network.business      | resell    | —         | —             | 72             | 47     | 7      | Porkbun LLC       |
-| etc.business          | premium   | $500      | —             | 58             | 34     | 3      | name.com          |
-| echoes.business       | available | $3.99     | —             | 56             | 24     | 6      | name.com          |
-| neuroscience.business | resell    | —         | —             | 80             | 37     | 12     | Sav.com, LLC - 28 |
-| inspiration.business  | premium   | $18.20    | $18.20        | 88             | 30     | 11     | namecheap         |
-| stadia.business       | available | $3.99     | —             | 66             | 22     | 6      | name.com          |
-| William.business      | resell    | —         | —             | 74             | 31     | 7      | Sav.com, LLC - 34 |
-| rewards.business      | premium   | $118.80   | $118.80       | 62             | 30     | 7      | namesilo          |
-| Mikey.business        | available | $25.98    | —             | 70             | 21     | 5      | namecheap         |
-| letsgo.business       | resell    | —         | —             | 57             | 31     | 7      | Sav.com, LLC - 48 |
-| has.business          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com          |
-| Tshirts.business      | available | $3.99     | —             | 70             | 20     | 8      | name.com          |
-| maps.business         | resell    | —         | —             | 56             | 31     | 4      | Dynadot Inc       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Trex.business     | available | $25.98    | —             | 80             | 24     | 5      | namecheap        |
+| forces.business   | available | $3.99     | —             | 82             | 12     | 6      | name.com         |
+| geton.business    | available | $3.99     | —             | 82             | 10     | 6      | name.com         |
+| getup.business    | available | $3.99     | —             | 82             | 14     | 6      | name.com         |
+| useit.business    | available | $3.99     | —             | 94             | 7      | 6      | name.com         |
+| playin.business   | available | $3.99     | —             | 80             | 10     | 7      | name.com         |
+| playon.business   | available | $3.99     | —             | 80             | 14     | 7      | name.com         |
+| pierogi.business  | available | $3.99     | —             | 82             | 7      | 7      | name.com         |
+| stirup.business   | available | $3.99     | —             | 82             | 3      | 7      | name.com         |
+| headout.business  | available | $3.99     | —             | 82             | 6      | 8      | name.com         |
+| surebet.business  | available | $3.99     | —             | 82             | 8      | 8      | name.com         |
+| drops.business    | available | $3.99     | —             | 52             | 25     | 5      | name.com         |
+| CocaCola.business | resell    | —         | —             | 92             | 82     | 9      | GoDaddy.com, LLC |
+| events.business   | premium   | $500      | —             | 68             | 37     | 6      | name.com         |
+| agents.business   | resell    | —         | —             | 56             | 50     | 6      | Sav.com, LLC     |
+| stories.business  | premium   | $18.20    | $18.20        | 58             | 36     | 7      | namecheap        |
+| gamers.business   | available | $3.99     | —             | 62             | 24     | 6      | name.com         |
+| network.business  | resell    | —         | —             | 72             | 47     | 7      | Porkbun LLC      |
+| etc.business      | premium   | $500      | —             | 58             | 34     | 3      | name.com         |
+| echoes.business   | available | $3.99     | —             | 56             | 24     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,065 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,065 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .business domains. The strongest candidates are the names that read cleanly, sound credible aloud, and match commercial intent without explanation. In this set, examples such as jewels.business or finals.business are immediately legible, while names like Acup.business or barup.business may need more context. For founders, the main question is whether the name feels ownable and memorable enough to support a company. For investors, the focus is whether the word is broad, commercially relevant, and priced with enough room for a future spread. With a median ask of 14.21, careful filtering should center on quality, not just entry price.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer clear words with obvious commercial meaning
+- Check plural forms like Apples.business or jewels.business
+- Avoid names that need explanation to be understood
+- Use price as a filter, but judge memorability first
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUSINESS One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUSINESS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
