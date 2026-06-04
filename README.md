@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .business one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,066 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,066 domains · **Median ask:** $14.21 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,066 domains · **Median ask:** $21.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/business`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Trex.business     | available | $25.98    | —             | 80             | 24     | 5      | namecheap        |
-| forces.business   | available | $3.99     | —             | 82             | 12     | 6      | name.com         |
-| geton.business    | available | $3.99     | —             | 82             | 10     | 6      | name.com         |
-| getup.business    | available | $3.99     | —             | 82             | 15     | 6      | name.com         |
-| useit.business    | available | $3.99     | —             | 94             | 7      | 6      | name.com         |
-| playin.business   | available | $3.99     | —             | 80             | 10     | 7      | name.com         |
-| playon.business   | available | $3.99     | —             | 80             | 14     | 7      | name.com         |
-| pierogi.business  | available | $3.99     | —             | 82             | 7      | 7      | name.com         |
-| stirup.business   | available | $3.99     | —             | 82             | 3      | 7      | name.com         |
-| headout.business  | available | $3.99     | —             | 82             | 6      | 8      | name.com         |
-| surebet.business  | available | $3.99     | —             | 82             | 7      | 8      | name.com         |
-| drops.business    | available | $3.99     | —             | 52             | 25     | 5      | name.com         |
-| CocaCola.business | resell    | —         | —             | 92             | 82     | 9      | GoDaddy.com, LLC |
-| events.business   | premium   | $500      | —             | 68             | 37     | 6      | name.com         |
-| agents.business   | resell    | —         | —             | 56             | 50     | 6      | Sav.com, LLC     |
-| stories.business  | premium   | $18.20    | $18.20        | 58             | 36     | 7      | namecheap        |
-| gamers.business   | available | $3.99     | —             | 62             | 24     | 6      | name.com         |
-| network.business  | resell    | —         | —             | 72             | 47     | 7      | Porkbun LLC      |
-| etc.business      | premium   | $500      | —             | 58             | 32     | 3      | name.com         |
-| echoes.business   | available | $3.99     | —             | 56             | 24     | 6      | name.com         |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| famous.business      | premium   | $118.80   | $118.80       | 98             | 23     | 6      | namesilo                                    |
+| pandabear.business   | available | $3.99     | —             | 80             | 5      | 10     | name.com                                    |
+| sleeping.business    | available | $3.99     | —             | 86             | 12     | 8      | name.com                                    |
+| overhead.business    | available | $3.99     | —             | 90             | 10     | 8      | name.com                                    |
+| seventh.business     | premium   | —         | —             | 80             | 10     | 7      | —                                           |
+| candle.business      | resell    | —         | —             | 97             | 27     | 6      | GoDaddy.com, LLC                            |
+| won.business         | premium   | $118.80   | $118.80       | 108            | 19     | 3      | namesilo                                    |
+| vigor.business       | premium   | —         | —             | 80             | 16     | 5      | —                                           |
+| Walmart.business     | premium   | —         | —             | 92             | 40     | 7      | —                                           |
+| enjoy.business       | premium   | —         | —             | 88             | 20     | 5      | —                                           |
+| recipient.business   | available | $3.99     | —             | 80             | 4      | 9      | name.com                                    |
+| vitamin.business     | resell    | —         | —             | 104            | 22     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
+| surrender.business   | available | $3.99     | —             | 80             | 10     | 9      | name.com                                    |
+| rustic.business      | premium   | —         | —             | 86             | 11     | 6      | —                                           |
+| tail.business        | available | $3.99     | —             | 80             | 21     | 4      | name.com                                    |
+| independent.business | premium   | $41.25    | —             | 88             | 28     | 11     | name.com                                    |
+| pope.business        | available | $3.99     | —             | 80             | 20     | 4      | name.com                                    |
+| doubt.business       | available | $3.99     | —             | 92             | 8      | 5      | name.com                                    |
+| occurring.business   | available | $3.99     | —             | 80             | 2      | 9      | name.com                                    |
+| microphone.business  | available | $3.99     | —             | 98             | 10     | 10     | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUSINESS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUSINESS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
