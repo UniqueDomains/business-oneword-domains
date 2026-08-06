@@ -1,29 +1,29 @@
-# One-Word Business Domain Names Across 506 TLDs (234,460)
+# Available .BUSINESS One-Word Domains (11,077)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-234%2C460%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C077%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-These are one-word domain names tied to business, spanning 506 TLDs and 234,460 domains in total. The median ask across this set is roughly $662. Updated daily, it includes extensions like .club, .markets, .gmbh, and .lighting.
+Daily-updated public extract of available and resale .business one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **234,460 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,077 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 234,460 domains · **Median ask:** $661.70 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,077 domains · **Median ask:** $19.36 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-07
-**Canonical page:** `https://unique.domains/domains/Business?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*business`
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/business`
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/Business?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*business&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/tld/business?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./business.csv">CSV</a> / <a href="./business.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,15 +31,15 @@ These are one-word domain names tied to business, spanning 506 TLDs and 234,460 
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/Business?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*business&github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/Business?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*business&github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this .BUSINESS search](https://unique.domains/domains/tld/business?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .BUSINESS search](https://unique.domains/domains/tld/business?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/Business?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*business`.
+This repository is the public extract for Unique Domains' .BUSINESS one-word domain catalog.
 
 ### Files
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| unit.lat           | available | $1.99     | —             | high           | low    | 4      | name.com                 |
-| fund.management    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC              |
-| deal.shop          | premium   | $12,500   | —             | medium         | low    | 4      | name.com                 |
-| chief.press        | available | $4.99     | $86.99        | high           | low    | 5      | namesilo                 |
-| fund.travel        | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33        |
-| firm.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                 |
-| chief.ryukyu       | available | $22.98    | —             | high           | low    | 5      | namecheap                |
-| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC   |
-| unit.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                 |
-| plans.bargains     | available | $21.99    | —             | medium         | low    | 5      | name.com                 |
-| unit.bot           | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC             |
-| plans.cash         | premium   | $242      | $242          | medium         | low    | 5      | namesilo                 |
-| plans.gmbh         | available | $45.99    | $45.99        | medium         | low    | 5      | namesilo                 |
-| buyer.finance      | resell    | —         | —             | high           | low    | 5      | Dynadot Inc              |
-| plans.financial    | premium   | $500      | —             | medium         | low    | 5      | name.com                 |
-| plans.industries   | available | $17.49    | —             | medium         | low    | 5      | name.com                 |
-| chief.id           | resell    | —         | —             | high           | low    | 5      | PT Media Cloud Indonesia |
-| plans.limited      | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                 |
-| plans.services     | available | $15.99    | —             | medium         | low    | 5      | name.com                 |
-| group.co           | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| great.business | resell    | —         | —             | high           | low    | 5      | 1API GmbH                                   |
+| awry.business  | available | $3.98     | $25.98        | low            | low    | 4      | namecheap                                   |
+| ice.business   | resell    | —         | —             | medium         | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
+| awe.business   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
+| been.business  | available | $3.99     | —             | medium         | low    | 4      | name.com                                    |
+| tap.business   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                            |
+| BJP.business   | premium   | $18.20    | $18.20        | medium         | low    | 3      | namecheap                                   |
+| boob.business  | available | $3.99     | —             | high           | low    | 4      | name.com                                    |
+| disc.business  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
+| bra.business   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                    |
+| cane.business  | available | $3.99     | —             | medium         | low    | 4      | name.com                                    |
+| hand.business  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                             |
+| cod.business   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
+| clxv.business  | available | $3.98     | $25.98        | low            | low    | 4      | namecheap                                   |
+| hype.business  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                 |
+| con.business   | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
+| clxx.business  | available | $3.98     | $25.98        | low            | low    | 4      | namecheap                                   |
+| Liam.business  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 20                           |
+| Eid.business   | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo                                    |
+| cows.business  | available | $3.99     | —             | medium         | low    | 4      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 234,460 live domains                       |
+| 1,000-row public sample | 11,077 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -101,7 +101,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/Business?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*business&github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/Business?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*business&github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/tld/business?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/business?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -120,12 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This list covers one-word domain names built around business concepts, drawn from 234,460 domains across 506 TLDs. Names like content.you, advice.gmbh, and engagement.markets show how far the business theme stretches beyond typical .com options. The median ask sits near $662, but individual prices swing widely depending on the TLD and word strength. Whether you're sizing up a quick flip or picking a name to build on, the same checks apply: compare the ask against renewal cost, weigh how mainstream or niche the extension is, and confirm the word is short, spellable, and free of obvious trademark conflicts.
+This selection covers one-word .business domain names such as dogwalking.business, jewels.business, and restassured.business. Most entries pair a common English word with the .business extension, producing short, easy-to-say names suited for service businesses, startups, and niche brands. With a median asking price near $21, these domains are accessible for first-time buyers and founders comparing options before committing to a name.
 
-- 234,460 one-word domains tied to business across 506 TLDs
-- Median ask near $662 — compare pricing before you commit
-- Spans niche and mainstream TLDs: .club, .markets, .gmbh, .lighting
-- Check renewal cost and trust signals before you shortlist
+- 11,066 one-word .business domains tracked in this set
+- Median asking price near $21 across the list
+- Names span compound words like coffeeglass and playin
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUSINESS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/Business?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*business&utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_open_search)
+- [Live .BUSINESS page](https://unique.domains/domains/tld/business?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_business_oneword_domains&utm_content=top_api_docs)
