@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .business one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,775 domains · **Median ask:** $14.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/business`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| great.business | resell    | —         | —             | high           | low    | 5      | 1API GmbH                                   |
-| awry.business  | available | $3.98     | $25.98        | low            | low    | 4      | namecheap                                   |
-| ice.business   | resell    | —         | —             | medium         | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| awe.business   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
-| been.business  | available | $3.99     | —             | medium         | low    | 4      | name.com                                    |
-| tap.business   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                            |
-| BJP.business   | premium   | $18.20    | $18.20        | medium         | low    | 3      | namecheap                                   |
-| boob.business  | available | $3.99     | —             | high           | low    | 4      | name.com                                    |
-| disc.business  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
-| bra.business   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                    |
-| cane.business  | available | $3.99     | —             | medium         | low    | 4      | name.com                                    |
-| hand.business  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                             |
-| cod.business   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
-| clxv.business  | available | $3.98     | $25.98        | low            | low    | 4      | namecheap                                   |
-| hype.business  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                 |
-| con.business   | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
-| clxx.business  | available | $3.98     | $25.98        | low            | low    | 4      | namecheap                                   |
-| Liam.business  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 20                           |
-| Eid.business   | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo                                    |
-| cows.business  | available | $3.99     | —             | medium         | low    | 4      | name.com                                    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| awry.business | available | $3.98     | $25.98        | low            | low    | 4      | namecheap                                   |
+| ice.business  | resell    | —         | —             | medium         | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
+| awe.business  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
+| been.business | available | $3.99     | —             | medium         | low    | 4      | name.com                                    |
+| tap.business  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                            |
+| BJP.business  | premium   | $18.20    | $18.20        | medium         | low    | 3      | namecheap                                   |
+| boob.business | available | $3.99     | —             | high           | low    | 4      | name.com                                    |
+| disc.business | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
+| bra.business  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                    |
+| cane.business | available | $3.99     | —             | medium         | low    | 4      | name.com                                    |
+| hand.business | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                             |
+| cod.business  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
+| clxv.business | available | $3.98     | $25.98        | low            | low    | 4      | namecheap                                   |
+| hype.business | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                 |
+| con.business  | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
+| clxx.business | available | $3.98     | $25.98        | low            | low    | 4      | namecheap                                   |
+| Liam.business | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 20                           |
+| Eid.business  | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo                                    |
+| cows.business | available | $3.99     | —             | medium         | low    | 4      | name.com                                    |
+| loco.business | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC - 47                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUSINESS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUSINESS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
