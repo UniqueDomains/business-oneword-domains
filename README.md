@@ -1,10 +1,10 @@
-# Available .BUSINESS One-Word Domains (23,166)
+# Available .BUSINESS One-Word Domains (24,944)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C166%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C944%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .business one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,166 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,944 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,166 domains · **Median ask:** $19.63 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 24,944 domains · **Median ask:** $19.32 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/business`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| ftc.business  | available | $15.34    | $15.34        | medium         | low    | 3      | namesilo          |
-| alt.business  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 29 |
-| acl.business  | premium   | $16.90    | $16.90        | high           | low    | 3      | namecheap         |
 | kew.business  | available | $15.34    | $15.34        | high           | low    | 3      | namesilo          |
-| jet.business  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC      |
+| alt.business  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 29 |
 | ado.business  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| acne.business | available | $2.50     | $16.27        | medium         | low    | 4      | dynadot           |
-| wow.business  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 2  |
-| anu.business  | premium   | $16.90    | $16.90        | medium         | low    | 3      | namecheap         |
-| aldo.business | available | $2.57     | $15.96        | high           | low    | 4      | porkbun           |
-| away.business | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
+| msu.business  | available | $15.34    | $15.34        | high           | low    | 3      | namesilo          |
+| jet.business  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC      |
 | apr.business  | premium   | $16.90    | $16.90        | high           | low    | 3      | namecheap         |
-| alep.business | available | $19.49    | $19.49        | medium         | low    | 4      | namesilo          |
-| berg.business | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 36 |
+| acne.business | available | $2.50     | $16.27        | medium         | low    | 4      | dynadot           |
+| away.business | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
 | are.business  | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot           |
-| alms.business | available | $3.98     | $25.98        | medium         | low    | 4      | namecheap         |
+| aldo.business | available | $2.57     | $15.96        | high           | low    | 4      | porkbun           |
+| berg.business | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 36 |
+| bcs.business  | premium   | $14.30    | $16.27        | high           | low    | 3      | dynadot           |
+| alep.business | available | $19.49    | $19.49        | medium         | low    | 4      | namesilo          |
 | deck.business | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
 | bud.business  | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship         |
-| axes.business | available | $3.99     | $27.99        | low            | low    | 4      | name.com          |
+| alms.business | available | $3.98     | $25.98        | medium         | low    | 4      | namecheap         |
 | hire.business | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| but.business  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| axes.business | available | $3.99     | $27.99        | low            | low    | 4      | name.com          |
+| leap.business | resell    | —         | —             | high           | medium | 4      | —                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,166 live domains                        |
+| 1,000-row public sample | 24,944 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUSINESS One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUSINESS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
